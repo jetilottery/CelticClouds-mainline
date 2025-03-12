@@ -1,0 +1,30 @@
+{"frames": {
+
+"landscape_gameLogo":
+{
+	"frame": {"x":1,"y":1,"w":373,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":1,"w":373,"h":182},
+	"sourceSize": {"w":448,"h":183},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_gameLogo":
+{
+	"frame": {"x":1,"y":1,"w":373,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":1,"w":373,"h":182},
+	"sourceSize": {"w":448,"h":183},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "i18n.png",
+	"format": "RGBA8888",
+	"size": {"w":375,"h":184},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ee0998f3b5eed9b5fb9758ee643f75ab:4004c09865daae0e8372c939f61915a6:75f4e1c5501bdd47cd0852bfeaabcd82$"
+}
+}
